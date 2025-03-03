@@ -8,4 +8,5 @@ psycopg2-binary==2.9.10  # If you're using PostgreSQL (remove if using other dat
 pillow==10.3.0  # For image handling
 python-dotenv==1.0.1  # For managing environment variables
 gunicorn==22.0.0  # If you're using gunicorn as the web server
-whitenoise==6.9.0  # For serving static files in production
+whitenoise==6.9.0  # For serving static files in production, add here
+crispy-bootstrap4==2024.10  # Add this line for crispy-bootstrap4
